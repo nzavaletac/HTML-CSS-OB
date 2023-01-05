@@ -1,0 +1,44 @@
+/* Estilos para colores */
+.colores {
+  color: orangered;
+}
+
+.color-hexadecimal {
+  color: #bce784;
+}
+
+.color-rgb {
+  color: rgb(100, 0, 200);
+}
+
+.color-rgba {
+  color: rgba(10, 10, 10, 0.85);
+}
+
+/* Fondos */
+.fondo {
+  /* background-color: cornflowerblue; */
+  /* background-image: url("https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2020/04/ca-9.jpg?x95853"); */
+  background-color: mediumturquoise;
+  background-position: right bottom;
+}
+
+.fondo-interno {
+  background-color: mediumorchid;
+}
+
+.ancho {
+  background-color: #bce784;
+  width: 100px;
+}
+
+.alto {
+  background-color: aquamarine;
+  height: 200px;
+}
+
+.tarjeta {
+  border: 1px solid rgb(150, 150, 150);
+  padding: 10px 20px;
+  margin: 10px 20px;
+}
